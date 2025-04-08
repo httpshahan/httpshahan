@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Shahan GitHub Banner](./assets/cover.jpg)](https://github.com/httpshahan)
+[![Shahan GitHub Banner](./assets/Github-Cover-5.png)](https://github.com/httpshahan)
 
 <h1 align="center">Hi 👋, I'm Shahan Ahmad</h1>
 <h3 align="left">Connect with me:</h3>
