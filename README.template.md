@@ -1,4 +1,4 @@
-[![Fahad GitHub Banner](./assets/cover.jpg)](https://github.com/ShahandFahad)
+[![Shahan GitHub Banner](./assets/cover.jpg)](https://github.com/ShahandFahad)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shahanahmad/)
 
